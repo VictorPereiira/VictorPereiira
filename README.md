@@ -1,5 +1,4 @@
-<h3 align="center">Hi there, I'm Victor Pereira 👋</h3>  
-
+## Hi there, I'm Victor Pereira 👋
 
 📚 Currently studying
 - JavaScript
