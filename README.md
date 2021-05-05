@@ -1,10 +1,10 @@
 ## Hi there, I'm Victor Pereira 👋
 
 📚 Currently studying
-- JavaScript
-- Git/GitHub
-- HTML and CSS
-- Sass
+- [JavaScript](https://github.com/Victorspsr/til_today-i-learnned/blob/master/javascript/README.md "Javascript")
+- [Git/GitHub](https://github.com/Victorspsr/til_today-i-learnned/blob/master/git/README.md "Git")
+- [HTML and CSS](https://github.com/Victorspsr/til_today-i-learnned/blob/master/css/README.md "CSS")
+- [Sass]
 
 🚀 Next steps
 - Node.js
