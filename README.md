@@ -1,8 +1,8 @@
 ## Hi there, I'm Victor Pereira 👋
 > Follow my trajectory in: [TIL(Today-I-Learned)](https://github.com/Victorspsr/til_today-i-learnned/blob/master/README.md)
 
-- 📚 Currently studying: .js, .git, .html, .css
-- 🚀 Next steps: .sql, .node  
+- 📚 Currently studying:  JS, GIT, HTML, CSS
+- 🚀 Next steps: SQL, NODE  
 
 ##
 **How about we get to know each other better?**
