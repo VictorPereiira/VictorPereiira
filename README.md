@@ -1,5 +1,6 @@
 ## Hi there, I'm Victor Pereira 👋
-> Follow my trajectory in: [TIL(Today-I-Learned)](https://github.com/Victorspsr/til_today-i-learnned/blob/master/README.md)
+> I am passionate about learning new technologies, so I am always willing to face any challenge to obtain the best solution to the problem.
+<!-- > Follow my trajectory in: [TIL(Today-I-Learned)](https://github.com/Victorspsr/til_today-i-learnned/blob/master/README.md) -->
 
 - 📚 Currently studying:  JS, GIT, HTML, CSS
 - 🚀 Next steps: SQL, NODE  
