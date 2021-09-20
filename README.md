@@ -2,8 +2,8 @@
 > I am passionate about learning new technologies, so I am always willing to face any challenge to obtain the best solution to the problem.
 <!-- > Follow my trajectory in: [TIL(Today-I-Learned)](https://github.com/Victorspsr/til_today-i-learnned/blob/master/README.md) -->
 
-- 📚 Currently studying:  JS, API, ReactjS, NODE.js, Maria DB 
-- 🚀 Next steps: Jest, NoSQL, AWS, TypeScript, Docker
+- 📚 Currently studying:  JS, API, REACT.JS, NODE, MARIA.DB 
+- 🚀 Next steps: JEST, NOSQL, AWS, TYPESCRIPT
 
 ##
 **How about we get to know each other better?**
