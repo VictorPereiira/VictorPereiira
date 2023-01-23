@@ -4,6 +4,7 @@
 
 - 📚 Currently studying:  Node.js, AWS, Express, Rest APIs, Sequelize, and Jest 
 - 🚀 Next steps: NOSQL, TYPESCRIPT, Terraform
+- About more: [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
 
 ##
 **How about we get to know each other better?**
