@@ -2,8 +2,8 @@
 > I am passionate about learning new technologies, so I am always willing to face any challenge to obtain the best solution to the problem.
 <!-- > Follow my trajectory in: [TIL(Today-I-Learned)](https://github.com/Victorspsr/til_today-i-learnned/blob/master/README.md) -->
 
-- 📚 Currently studying:  Node.js, AWS, Express, Rest APIs, Sequelize, and Jest 
-- 🚀 Next steps: NOSQL, TYPESCRIPT, Terraform
+- 📚 Currently studying:  Typescript, AWS, React Js, Docker
+- 🚀 Next steps: Terraform, MongoDB, Jest, CI/CD
 - About more: [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
 
 ##
