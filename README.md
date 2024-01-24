@@ -9,4 +9,4 @@
 ##
 **How about we get to know each other better?**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorspsr)](https://www.linkedin.com/in/victorspsr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorpereiira)](https://www.linkedin.com/in/victorpereiira)
