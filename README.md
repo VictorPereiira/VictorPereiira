@@ -1,12 +1,8 @@
-## Hi there, I'm Victor Pereira 👋
-> I am passionate about learning new technologies, so I am always willing to face any challenge to obtain the best solution to the problem.
+## Olá! Sou Victor Pereira 👋
+> Desenvolvedor Backend com foco em Python, atuando em APIs, automações e sistemas web. Experiência também com Node.js, bancos de dados e AWS.
 <!-- > Follow my trajectory in: [TIL(Today-I-Learned)](https://github.com/Victorspsr/til_today-i-learnned/blob/master/README.md) -->
 
-- 📚 Currently studying:  Typescript, AWS, React Js, Docker
-- 🚀 Next steps: Terraform, MongoDB, Jest, CI/CD
-- About more: [StudyVerse](https://github.com/VictorPereiira/StudyVerse)
-
 ##
-**How about we get to know each other better?**
+**Chama para um papo!**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorpereiira)](https://www.linkedin.com/in/victorpereiira)
