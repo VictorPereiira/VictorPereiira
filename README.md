@@ -1,6 +1,5 @@
 ## Olá! Sou Victor Pereira 👋
-> Desenvolvedor Backend com foco em Python, atuando em APIs, automações e sistemas web. Experiência também com Node.js, bancos de dados e AWS.
-<!-- > Follow my trajectory in: [TIL(Today-I-Learned)](https://github.com/Victorspsr/til_today-i-learnned/blob/master/README.md) -->
+> Desenvolvedor Full-Stack e Instrutor de Programação. Trabalho com Python, JavaScript e desenvolvimento web, criando APIs, automações e sistemas web.
 
 ##
 **Chama para um papo!**
