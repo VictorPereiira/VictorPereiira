@@ -4,4 +4,4 @@
 ##
 **Chama para um papo!**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorrpsantos/)]([https://www.linkedin.com/in/victorpereiira](https://www.linkedin.com/in/victorrpsantos/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorrpsantos/)
